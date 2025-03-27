@@ -11,6 +11,7 @@ This React application integrates with the Reqres API to perform user management
 3. Protected routes for authenticated users
 
 
+
 2. **User Management**
 
 1. Paginated list of users with avatars
@@ -19,12 +20,15 @@ This React application integrates with the Reqres API to perform user management
 4. Delete user with confirmation dialog
 
 
+
 3. **UI/UX**
 
 1. Responsive design that works on mobile and desktop
 2. Loading states for better user experience
 3. Error handling with appropriate messages
 4. Toast notifications for success/error feedback
+
+
 
 
 
@@ -40,8 +44,19 @@ This React application integrates with the Reqres API to perform user management
 ## How to Run the Project
 
 1. Clone the repository
-2. Install dependencies: npm install
-3. Start the development server: npm run dev
+2. Install dependencies:
+
+```plaintext
+npm install
+```
+
+
+3. Start the development server:
+
+```plaintext
+npm run dev
+```
+
 
 4. Open your browser to [http://localhost:3000](http://localhost:3000)
 
