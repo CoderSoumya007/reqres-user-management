@@ -47,7 +47,7 @@ This React application integrates with the Reqres API to perform user management
 2. Install dependencies:
 
 ```plaintext
-npm install
+npm install -legacy-peer-deps
 ```
 
 
